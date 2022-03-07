@@ -1,0 +1,2 @@
+# Integrated-and-modulated-circuit-for-extruder-machine
+This hardware is an Arduino Mega shield. This system integrates all systems of filament extruders. The project was based on industrial process literature. It was reported the use for control systems, power consumed by resistors and motor, filament diameter, and temperature. For this board, a calibrator was used for the diameter analysis. However, it was reported to use pressure and optical sensors. Therefore, terminal blocks were fixed for possible modifications and process validations. 
